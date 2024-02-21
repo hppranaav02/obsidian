@@ -1,0 +1,7 @@
+- [x] Assignment 1
+	- [x] Write a blog about a recent EdTech product that i used
+	- [x] Review 3 other bogs o pitch2peers on brightspace
+- [ ] Assignment 2
+	- [x] Find a group
+	- [x] join a group on brightspace
+	- [ ] 

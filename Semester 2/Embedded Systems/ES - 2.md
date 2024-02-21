@@ -1,0 +1,59 @@
+- Hardware is used in a loop, tightly coupled in a loop
+- sensors produce analog signals which is converted in to digital which is then processed as information.
+	- Either display
+	- or drive actuators and in loop back to the environment. Here the digital signal is converted back to analog
+	- sample and hold circuits used to convert from analog to digital for information processing.
+		- higher sampling rate == precise measuring
+		- Clock based sampler for sampling rate, capacitor holds value
+	- Discritization of values (Flash A/D convertor)
+		- Reference voltage slope based comparator used to generate the digital bits can be encoded down to as many as needed.
+		- Resolution is the precision of the convertor, the end digital product (in bits)
+		- Resolution in volts is the minimum physical threshold of the circuit to generate a difference in the output by one bit.
+		- parallel hence fast, done in one clock cycle per sample O(1)
+		- Requires more hardware, hence more cost, hardware coplexity - O(n)
+	- Successive approximation discritization
+		- Use approximation register to choose digital value based on a preset values stored in the control logic
+		- Values are found through binary search.
+		- Comparator is in analog, the approximation value is D/A then compared to the input value
+		- More bits means more precise coparison
+		- if n bits, takes n clock cycles - O(logN)
+		- Hardware is low, single comparator
+- Information Processing
+	- Can have multiple types of computational cores, chosen based on use case. Choice is due to flexibility v/s performance. 
+	- GPP - general purpose
+		- high performance, superscalar, super pipeline
+		- complex memory units
+		- complex circuitry and memory maps cause timing issues due to unpredictability of instruction handling and memory fetches
+		- High power draw
+	- ASIP - Application specific
+		- micro controller - r3eactive systems
+			- low power
+			- cross platform use
+			- integrable with other units
+			- real time application
+				- no cache
+				- low latency
+		- DSP - process stream data
+			- high parallel units
+			- specialised ins set
+			- no overhead loops - lower instructions for loops, smaller memory
+			- specialized mem
+			- 
+		- VLIW - larger streams of data, high volume like video
+			- pack multiple inst in one big inst, each part is provided to a different h/w unit
+			- EPIC category ---> read]
+			- program behaviour is not data dependant
+			- Use care dependant
+			- compiler is complicated to build
+	- RPU - reconfigurable processing
+		- hardware has reprogramable units to do specific things, can be done in runtime
+		- FPGA
+			- fast prototypinh
+			- hardware encryption
+			- parallization of function invokation
+			- adaptation of across standards
+			- configurable inter point and logic blocks
+	- ASIC - app specific Inte circuits
+		- crazy speed
+		- energy effecient
+		- 

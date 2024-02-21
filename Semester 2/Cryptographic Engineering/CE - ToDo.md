@@ -1,0 +1,16 @@
+- [ ] Read about the Side-Channel attacks lecture
+	- [ ] AES
+	- [ ] RSA
+	- [ ] AES - SCA
+	- [ ] RSA - SCA
+	- [ ] power consumption
+	- [ ] Side channel attacks on IoT and Edge devices
+		- [ ] Attacks and preventions
+		- [ ] network obfuscation
+		- [ ] distributed key storage
+		- [ ] key rotation
+		- [ ] clock frequency difference
+	- [ ] combinatorial and sequential circuits in memory
+
+- [ ] Assignment 1
+- [ ] Assignment 2

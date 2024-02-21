@@ -1,0 +1,4 @@
+- https://daedalus.liacs.nl/
+- https://liacs.leidenuniv.nl/~stefanovtp/courses/ES/papers/list_of_papers.txt
+- https://liacs.leidenuniv.nl/~stefanovtp/courses/ES/papers/
+- https://liacs.leidenuniv.nl/~stefanovtp/courses/ES/index.html  ------- COURSE SITE
