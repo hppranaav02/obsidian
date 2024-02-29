@@ -1,1 +1,4 @@
-- 
+- Black Box Optimization and Information based complexity
+	- Find an algorithm which runs in minimal time to cover maximum number of functions to achieve a error of delta
+- Bounds on continuous functions
+	- 

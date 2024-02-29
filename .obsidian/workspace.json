@@ -86,7 +86,7 @@
               "type": "backlink",
               "state": {
                 "file": "Semester 2/Multicriteria Optimization/Lecture 3.md",
-                "collapseAll": true,
+                "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -146,7 +146,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8a05b602031747a6",
+  "active": "b8bbf0dbfc9185d8",
   "lastOpenFiles": [
     "Semester 2/Cloud Computing/lecture2.pdf",
     "Semester 2/Cloud Computing/lecture1.pdf",
