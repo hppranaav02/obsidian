@@ -1,3 +1,3 @@
-- [ ] Assignment 1
-- [ ] Assignment 2
+- [ ] [[Homework 1]]
+- [ ] Homework 2
 - [ ] Exam

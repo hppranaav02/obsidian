@@ -1,0 +1,1 @@
+- [ ] HW: Formulate the TSP as a multicriteria problem, (Linear or Quadratic)

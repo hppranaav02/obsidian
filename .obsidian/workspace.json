@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "1aa9b5420d0ed0b5",
+        "id": "0153771ca7b75e8d",
         "type": "tabs",
         "children": [
           {
-            "id": "36a7bb126aef326b",
+            "id": "8a05b602031747a6",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Semester 2/Foundation of Testing/Paul Ammann_ Jeff Offutt - Introduction to Software Testing-Cambridge University Press (2016).pdf"
+                "file": "Semester 2/Multicriteria Optimization/Lecture 3.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -67,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 273.5026054382324,
-    "collapsed": true
+    "width": 273.5026054382324
   },
   "right": {
     "id": "af10084bedb46432",
@@ -84,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Semester 2/Foundation of Testing/Paul Ammann_ Jeff Offutt - Introduction to Software Testing-Cambridge University Press (2016).pdf",
+                "file": "Semester 2/Multicriteria Optimization/Lecture 3.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Semester 2/Foundation of Testing/Paul Ammann_ Jeff Offutt - Introduction to Software Testing-Cambridge University Press (2016).pdf",
+                "file": "Semester 2/Multicriteria Optimization/Lecture 3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Semester 2/Foundation of Testing/Paul Ammann_ Jeff Offutt - Introduction to Software Testing-Cambridge University Press (2016).pdf"
+                "file": "Semester 2/Multicriteria Optimization/Lecture 3.md"
               }
             }
           }
@@ -145,33 +146,41 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "36a7bb126aef326b",
+  "active": "8a05b602031747a6",
   "lastOpenFiles": [
-    "Semester 2/Robotics/2024_Robotics Assignment 2 (1).pdf",
-    "Semester 2/Robotics/MR-v2.pdf",
+    "Semester 2/Cloud Computing/lecture2.pdf",
+    "Semester 2/Cloud Computing/lecture1.pdf",
+    "Semester 2/Cloud Computing/exam-22jul2022.pdf",
+    "Semester 2/Cloud Computing/cco-sample-exam.pdf",
+    "Semester 2/Multicriteria Optimization/MODA - ToDo.md",
+    "Semester 2/Multicriteria Optimization/Lecture 3.md",
+    "Semester 2/Dealines.md",
+    "General - To Do.md",
+    "Semester 2/Cloud Computing/Homework 1.md",
+    "Semester 2/Cloud Computing/CC - ToDo.md",
+    "Semester 2/Embedded Systems/ES - ToDo.md",
+    "Semester 2/Embedded Systems/ES - 2.md",
+    "Assignment.md",
+    "().md",
+    "Semester 2/Cloud Computing/homework1.pdf",
     "Semester 2/Foundation of Testing/Paul Ammann_ Jeff Offutt - Introduction to Software Testing-Cambridge University Press (2016).pdf",
+    "Semester 2/Multicriteria Optimization/unit 1.pdf",
+    "Semester 2/Multicriteria Optimization/Unit - 0.pdf",
+    "Semester 2/Foundation of Testing/2024 FST 2 Input Space Partitioning.pdf",
+    "Semester 2/Foundation of Testing/FST-Ex2.pdf",
+    "Semester 2/Foundation of Testing/2024 FST_1 What is Testing.pdf",
+    "Semester 2/Foundation of Testing/FT - ToDo.md",
+    "Semester 2/Cryptographic Engineering/4 Fault Analysis.md",
+    "Semester 2/Cloud Computing/2.md",
     "Semester 2/Embedded Systems/ES - Links.md",
-    "Semester 2/Foundation of Testing/2024 FST Exercises v1.pdf",
     "Semester 2/Robotics/Robotics - ToDo.md",
     "2024-02-20.md",
     "Semester 2/Modern Game AI/MGAI - ToDo.md",
-    "General - To Do.md",
-    "Semester 2/Embedded Systems/ES - ToDo.md",
     "create a link.md",
     "Untitled.md",
-    "Semester 2/Embedded Systems/ES - 2.md",
-    "Semester 2/Multicriteria Optimization/MODA - ToDo.md",
-    "Semester 2/Multicriteria Optimization",
-    "Semester 2/Modern Game AI/mgai_a1.pdf",
     "Semester 2/Educational Technologies/ET - ToDo.md",
-    "Semester 2/Foundation of Testing/FT - ToDo.md",
-    "Semester 2/Cloud Computing/CC - ToDo.md",
     "Welcome.md",
     "Untitled.canvas",
-    "Semester 2/Cryptographic Engineering/CE - ToDo.md",
-    "Semester 2/Robotics",
-    "Semester 2/Educational Technologies",
-    "Semester 2/Cryptographic Engineering",
-    "Semester 2/Cloud Computing"
+    "Semester 2/Cryptographic Engineering/CE - ToDo.md"
   ]
 }
