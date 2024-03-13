@@ -1,5 +1,5 @@
-- [ ] Choose a selection of 5 papers
-- [ ] Find a teammate
+- [x] Choose a selection of 5 papers
+- [x] Find a teammate
 - [ ] Read up on the papers from the selected papers
 - [ ] Read Lab assignment on website
 

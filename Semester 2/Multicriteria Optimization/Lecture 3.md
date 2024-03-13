@@ -1,4 +1,7 @@
 - Black Box Optimization and Information based complexity
 	- Find an algorithm which runs in minimal time to cover maximum number of functions to achieve a error of delta
 - Bounds on continuous functions
-	- 
+	- Lipschitz Functions
+	- Exists a constant which bounds the output difference based on the norm of the difference in input for continuous functions
+- COmplexity of black box optimization
+	- For a class of lipschitz functions, the task of finding a point in the domain space where the difference of output from function and a zero order oracle is within an error is bound lower exponentially directly proportional to the number of iterations and inversely proportional to the error. hence lower the error, higher the bound

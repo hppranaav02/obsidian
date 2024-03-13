@@ -1,3 +1,4 @@
-- [ ] [[Homework 1]]
+- [x] [[Homework 1]]
 - [ ] Homework 2
 - [ ] Exam
+- [ ] Bid for paper
